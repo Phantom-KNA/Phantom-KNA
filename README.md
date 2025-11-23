@@ -1,6 +1,6 @@
-# ðŸ‘‹ Â¡Hola! Soy RaÃºl Gavilanes
+# 👋 ¡Hola! Soy Raúl Gavilanes
 
-## ðŸ’» Desarrollador Fullstack | Cuba
+## 💻 Desarrollador Fullstack | Cuba
 
 <div align="center">
 
@@ -10,17 +10,17 @@
 
 ---
 
-## ðŸ› ï¸ Stack TecnolÃ³gico
+## 🛠️ Stack Tecnológico
 
-### ðŸŽ¯ Especialidades
+### 🎯 Especialidades
 <div align="left">
 
-**ðŸ’œ Frontend**
+**💜 Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-**ðŸ’™ Backend & Mobile**
+**💙 Backend & Mobile**
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 ![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -30,28 +30,28 @@
 
 ---
 
-## ðŸš€ Proyectos Destacados
+## 🚀 Proyectos Destacados
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ðŸ“š WikiMedia
+### 📚 WikiMedia
 [![WikiMedia](https://img.shields.io/badge/Proyecto-Activo-DC2626?style=flat&logo=wikimedia&logoColor=white)](https://github.com/Phantom-KNA/WikiMedia)
 
 *Plataforma colaborativa de contenido wiki*
 
-- ðŸ”§ **Stack:** .NET MAUI, C#, React
-- ðŸŽ¯ **Estado:** En desarrollo activo
-- ðŸŒŸ **Enfoque:** Experiencia de usuario intuitiva
+- 🔧 **Stack:** .NET MAUI, C#, React
+- 🎯 **Estado:** En desarrollo activo
+- 🌟 **Enfoque:** Experiencia de usuario intuitiva
 
 </td>
 <td width="50%" valign="top">
 
-### ðŸ’¡ PrÃ³ximos Proyectos
-- ðŸ”® AI-Powered Development Tools
-- ðŸ“± Cross-Platform Mobile Solutions
-- ðŸŒ Modern Web Applications
+### 💡 Próximos Proyectos
+- 🔮 AI-Powered Development Tools
+- 📱 Cross-Platform Mobile Solutions
+- 🌐 Modern Web Applications
 
 </td>
 </tr>
@@ -59,7 +59,7 @@
 
 ---
 
-## ðŸ“Š EstadÃ­sticas de Desarrollo
+## 📊 Estadísticas de Desarrollo
 
 <div align="center">
 
@@ -71,30 +71,30 @@
 
 ---
 
-## ðŸŽ¯ FilosofÃ­a de Desarrollo
+## 🎯 Filosofía de Desarrollo
 
-> *"Nuestro trabajo es hacer que la tecnologÃ­a sea mÃ¡s fÃ¡cil para las personas"*
+> *"Nuestro trabajo es hacer que la tecnología sea más fácil para las personas"*
 
-Creo firmemente en crear soluciones tecnolÃ³gicas que no solo funcionen, sino que mejoren la experiencia humana. Cada lÃ­nea de cÃ³digo debe tener un propÃ³sito y aportar valor real a los usuarios.
+Creo firmemente en crear soluciones tecnológicas que no solo funcionen, sino que mejoren la experiencia humana. Cada línea de código debe tener un propósito y aportar valor real a los usuarios.
 
 ---
 
-## ðŸ“ž Conectemos
+## 📞 Conectemos
 
 <div align="center">
 
-### ðŸ¤ Â¿Tienes un proyecto en mente?
+### 🤝 ¿Tienes un proyecto en mente?
 
 **Email:** [rgavilaneslara@gmail.com](mailto:rgavilaneslara@gmail.com)
 
-### ðŸŒ Redes Sociales
+### 🌐 Redes Sociales
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://fb.com/https:/raul.gavilanes.7739)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/Phantom_KNA#8772)
 
-### ðŸ’¬ Disponibilidad
-- ðŸ’¼ Abierto a colaboraciones
-- ðŸŒ Trabajando remotely desde Cuba
-- âš¡ Respuesta rÃ¡pida garantizada
+### 💬 Disponibilidad
+- 💼 Abierto a colaboraciones
+- 🌍 Trabajando remotely desde México
+- ⚡ Respuesta rápida garantizada
 
 </div>
 
@@ -104,6 +104,6 @@ Creo firmemente en crear soluciones tecnolÃ³gicas que no solo funcionen, sino 
 
 [![Visitas al perfil](https://komarev.com/ghpvc?username=phantom-kna&color=DC2626&style=flat&label=Visitas+al+perfil)](https://komarev.com/ghpvc?username=phantom-kna)
 
-*Ãšltima actualizaciÃ³n: Noviembre 2025*
+*Última actualización: Noviembre 2025*
 
 </div>
