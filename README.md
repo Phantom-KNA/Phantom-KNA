@@ -1,25 +1,109 @@
-<h1 align="center">Hi 👋, I'm Raul</h1>
-<h3 align="center">A passionate fullstack developer from Cuba</h3>
+# ðŸ‘‹ Â¡Hola! Soy RaÃºl Gavilanes
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phantom-kna&label=Profile%20views&color=0e75b6&style=flat" alt="phantom-kna" /> </p>
+## ðŸ’» Desarrollador Fullstack | Cuba
 
-- 🔭 I’m currently working on [WikiMedia](https://github.com/Phantom-KNA/WikiMedia)
+<div align="center">
 
-- 💬 Ask me about
- **C#,.NET MAUI, XamarinForms, JavaScript, React, React Native**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&multiline=true&repeat=true&width=800&lines=%F0%9F%92%BB+Creando+soluciones+tecnol%C3%B3gicas+innovadoras;%F0%9F%9A%80+Especialista+en+.NET+y+React;%F0%9F%8C%B1+Transformando+ideas+en+experiencias+digitales)](https://git.io/typing-svg)
 
-- 📫 How to reach me **rgavilaneslara@gmail.com**
+</div>
 
-- ⚡ Fun fact
- **Our job is to make a technology easier for people...**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https:/raul.gavilanes.7739" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https:/raul.gavilanes.7739" height="30" width="40" /></a>
-<a href="https://discord.gg/Phantom_KNA#8772" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Phantom_KNA#8772" height="30" width="40" /></a>
-</p>
+## ðŸ› ï¸ Stack TecnolÃ³gico
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+### ðŸŽ¯ Especialidades
+<div align="left">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phantom-kna&show_icons=true&locale=en&layout=compact" alt="phantom-kna" /></p>
+**ðŸ’œ Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+**ðŸ’™ Backend & Mobile**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat&logo=xamarin&logoColor=white)
+
+</div>
+
+---
+
+## ðŸš€ Proyectos Destacados
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ðŸ“š WikiMedia
+[![WikiMedia](https://img.shields.io/badge/Proyecto-Activo-DC2626?style=flat&logo=wikimedia&logoColor=white)](https://github.com/Phantom-KNA/WikiMedia)
+
+*Plataforma colaborativa de contenido wiki*
+
+- ðŸ”§ **Stack:** .NET MAUI, C#, React
+- ðŸŽ¯ **Estado:** En desarrollo activo
+- ðŸŒŸ **Enfoque:** Experiencia de usuario intuitiva
+
+</td>
+<td width="50%" valign="top">
+
+### ðŸ’¡ PrÃ³ximos Proyectos
+- ðŸ”® AI-Powered Development Tools
+- ðŸ“± Cross-Platform Mobile Solutions
+- ðŸŒ Modern Web Applications
+
+</td>
+</tr>
+</table>
+
+---
+
+## ðŸ“Š EstadÃ­sticas de Desarrollo
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phantom-kna&theme=transparent&show_icons=true&icon_color=DC2626&title_color=DC2626&text_color=374151&bg_color=ffffff&border_color=DC2626&border_width=1)](https://github.com/phantom-kna)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phantom-kna&theme=transparent&show_icons=true&icon_color=DC2626&title_color=DC2626&text_color=374151&bg_color=ffffff&border_color=DC2626&border_width=1&layout=compact)](https://github.com/phantom-kna)
+
+</div>
+
+---
+
+## ðŸŽ¯ FilosofÃ­a de Desarrollo
+
+> *"Nuestro trabajo es hacer que la tecnologÃ­a sea mÃ¡s fÃ¡cil para las personas"*
+
+Creo firmemente en crear soluciones tecnolÃ³gicas que no solo funcionen, sino que mejoren la experiencia humana. Cada lÃ­nea de cÃ³digo debe tener un propÃ³sito y aportar valor real a los usuarios.
+
+---
+
+## ðŸ“ž Conectemos
+
+<div align="center">
+
+### ðŸ¤ Â¿Tienes un proyecto en mente?
+
+**Email:** [rgavilaneslara@gmail.com](mailto:rgavilaneslara@gmail.com)
+
+### ðŸŒ Redes Sociales
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://fb.com/https:/raul.gavilanes.7739)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/Phantom_KNA#8772)
+
+### ðŸ’¬ Disponibilidad
+- ðŸ’¼ Abierto a colaboraciones
+- ðŸŒ Trabajando remotely desde Cuba
+- âš¡ Respuesta rÃ¡pida garantizada
+
+</div>
+
+---
+
+<div align="center">
+
+[![Visitas al perfil](https://komarev.com/ghpvc?username=phantom-kna&color=DC2626&style=flat&label=Visitas+al+perfil)](https://komarev.com/ghpvc?username=phantom-kna)
+
+*Ãšltima actualizaciÃ³n: Noviembre 2025*
+
+</div>
